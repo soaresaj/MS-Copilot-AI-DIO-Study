@@ -7,5 +7,7 @@ Ferramentas de IA também podem ser utilizadas para verificar a autenticidade de
 
 A resolução dessa questão é essencial em um mundo onde o conteúdo gerado por IA está se tornando cada vez mais prevalente, garantindo que possamos confiar na autenticidade das informações que consumimos.
 
+**[Imagem Gerada](/outputs/NaturalouFakeNatty–ComoResolverUtilizandoIAsGenerativas.png)**
+
 ### Descrição da Imagem
 Imagem gerada com base no conceito de "Natural ou Fake Natty", destacando o uso de IA para distinguir entre criações humanas e geradas artificialmente. A cena mostra a análise de conteúdos, como textos e imagens, enquanto técnicas de IA são aplicadas para verificar sua autenticidade.
