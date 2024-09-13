@@ -7,5 +7,7 @@ Outra aplicação notável é na área de transporte, onde a IA está na vanguar
 
 Essas aplicações demonstram o potencial da IA para inovar e melhorar processos em diversas áreas, destacando sua importância no mundo moderno.
 
+**[Imagem Gerada](/outputs/AplicacoesPraticasdaIA.png)**
+
 ### Descrição da Imagem
 Imagem representando as diversas aplicações da Inteligência Artificial (IA) em diferentes indústrias. Ela captura os impactos da IA na saúde, finanças, manufatura, comércio eletrônico, transporte e sustentabilidade.
