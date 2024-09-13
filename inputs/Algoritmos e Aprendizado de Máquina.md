@@ -7,5 +7,7 @@ Algoritmos populares de aprendizado de máquina incluem árvores de decisão, m�
 
 O aprendizado de máquina tem aplicações em diversos campos, como previsão de mercado, diagnóstico médico, reconhecimento de fala e visão computacional, tornando-se uma ferramenta essencial na era da informação.
 
+**[Imagem Gerada](/outputs/AlgoritmoseAprendizadodeMaquina.png)**
+
 ### Descrição da Imagem
 A imagem gerada com base na descrição de aprendizado de máquina, mostrando diferentes algoritmos processando dados em um ambiente futurista e tecnológico. Ela representa aprendizado supervisionado, não supervisionado e por reforço, além de algoritmos populares como redes neurais e árvores de decisão.
