@@ -5,5 +5,7 @@ Essas habilidades são essenciais para programadores, pois permitem a elaboraç�
 
 Dominar lógica e pensamento computacional é crucial para qualquer profissional que deseje se destacar no campo da tecnologia e inovação.
 
+**[Imagem Gerada](/outputs/LogicaePensamentoComputacional.png)**
+
 ### Descrição da Imagem
 Imagem representando a lógica e o pensamento computacional na era da Inteligência Artificial, destacando sua aplicação no desenvolvimento de software e na solução de problemas em diversas áreas.
