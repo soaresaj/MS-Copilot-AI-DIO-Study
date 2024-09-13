@@ -7,5 +7,7 @@ Além disso, a IA pode ser usada para revisar o código, identificar bugs e suge
 
 A utilização da IA generativa como assistente de programação demonstra o potencial de automação inteligente, permitindo que desenvolvedores foquem em tarefas mais criativas e estratégicas.
 
+**[Imagem Gerada](/outputs/UtilizacaodaIAGenerativacomoAssistentedeProgramacao.png)**
+
 ### Descrição da Imagem
 A imagem retrata um desenvolvedor utilizando ferramentas de IA generativa, como o GitHub Copilot, em um ambiente de programação moderno e produtivo. A cena destaca a eficiência e a automação trazidas pela IA no processo de desenvolvimento de software.
