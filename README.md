@@ -83,15 +83,14 @@ Finalizando foi pedido ao MS Copilot AI verificar se as análises das imagens re
 **13.	Lógica e Pensamento Computacional:** A imagem descreve um ambiente de trabalho com elementos de lógica e pensamento computacional, o que é adequado para o tópico;  
 **14.	Utilização da IA Generativa como Assistente de Programação:** A imagem mostra um ambiente de trabalho com o GitHub Copilot, o que é apropriado para o tópico;  
 **15.	Natural ou Fake Natty – Como Resolver utilizando IAs Generativas:** A imagem descreve um ambiente de trabalho com elementos de IA generativa, o que é relevante para o tópico;  
-**16.	Fundamentos da IA Generativa:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é adequado para o tópico;  
-**17.	Algoritmos e Aprendizado de Máquina:** A imagem descreve um ambiente de trabalho com elementos de aprendizado de máquina, o que é apropriado para o tópico;  
-**18.	Processamento de Linguagem Natural:** A imagem mostra um ambiente de trabalho com elementos de processamento de linguagem natural, o que é relevante para o tópico;  
-**19.	Visão Computacional:** A imagem descreve um ambiente de trabalho com elementos de visão computacional, o que é adequado para o tópico;  
-**20.	O que são IAs Generativas:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é apropriado para o tópico;  
-**21.	Aumentar Produtividade com IA e MS Copilot:** A imagem descreve um ambiente de trabalho com o GitHub Copilot, o que é relevante para o tópico;  
-**22.	Microsoft Copilot Studio – Construção de Copilot Customizados:** A imagem mostra um ambiente de trabalho com referências ao GitHub Copilot, o que é adequado para o tópico;  
-**23.	Explorar Recursos de IA Generativa utilizando o MS Copilot AI e o Azure OpenAI:** A imagem descreve um ambiente de trabalho com elementos de IA generativa e referências ao GitHub Copilot, o que é apropriado para o tópico.
+**16.	Pilares Teóricos que Sustentam as IAs Generativas:** A imagem representa artisticamente os fundamentos teóricos da IA generativa como pilares em uma composição visualmente marcante que une arquitetura clássica com conceitos tecnológicos avançados, o que é relevante para o tópico;  
+**17.	Fundamentos da IA Generativa:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é adequado para o tópico;  
+**18.	Algoritmos e Aprendizado de Máquina:** A imagem descreve um ambiente de trabalho com elementos de aprendizado de máquina, o que é apropriado para o tópico;  
+**19.	Processamento de Linguagem Natural:** A imagem mostra um ambiente de trabalho com elementos de processamento de linguagem natural, o que é relevante para o tópico;  
+**20.	Visão Computacional:** A imagem descreve um ambiente de trabalho com elementos de visão computacional, o que é adequado para o tópico;  
+**21.	O que são IAs Generativas:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é apropriado para o tópico;  
+**22.	Aumentar Produtividade com IA e MS Copilot:** A imagem descreve um ambiente de trabalho com o GitHub Copilot, o que é relevante para o tópico;  
+**23.	Microsoft Copilot Studio – Construção de Copilot Customizados:** A imagem mostra um ambiente de trabalho com referências ao GitHub Copilot, o que é adequado para o tópico;  
+**24.	Explorar Recursos de IA Generativa utilizando o MS Copilot AI e o Azure OpenAI:** A imagem descreve um ambiente de trabalho com elementos de IA generativa e referências ao GitHub Copilot, o que é apropriado para o tópico.
 
 De maneira geral, as descrições fornecidas correspondem bem aos tópicos do curso sobre Microsoft Copilot IA. Cada imagem parece capturar os elementos principais dos tópicos, refletindo adequadamente o conteúdo do curso. Se precisar de mais alguma análise ou ajuste, estou à disposição!
-
-
