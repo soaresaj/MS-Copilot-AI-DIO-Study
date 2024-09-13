@@ -5,7 +5,7 @@ Uma das tecnologias-chave por trás das IAs generativas são as Redes Adversári
 
 As IAs generativas têm uma ampla gama de aplicações, desde o design de produtos e criação de conteúdo artístico até o desenvolvimento de protótipos e simulações em ambientes virtuais. No entanto, seu uso também levanta questões éticas, como o potencial para criar deepfakes ou gerar desinformação.
 
-**[Imagem Gerada](/outputs/OquesaoIAsGenerativas.png)**
+**[Imagem Gerada](/inputs/OquesaoIAsGenerativas.png)**
 
 ### Descrição da Imagem
 A imagem ilustra o conceito de algoritmos de IA criando novos conteúdos, como textos, imagens e músicas, impulsionados por redes adversárias generativas (GANs) e refletindo o equilíbrio entre criatividade e questões éticas.

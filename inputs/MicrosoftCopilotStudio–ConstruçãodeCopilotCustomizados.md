@@ -5,7 +5,7 @@ Uma das principais vantagens do Copilot Studio é a facilidade com que ele permi
 
 Além disso, o Copilot Studio suporta a orquestração de conversas complexas, permitindo que os copilotos possam gerenciar múltiplas interações e contextos, fornecendo respostas precisas e contextuais. Isso torna a plataforma ideal para empresas que buscam implementar soluções de IA de forma rápida e eficiente, otimizando processos e melhorando a experiência do usuário.
 
-**[Imagem Gerada](/outputs/MicrosoftCopilotStudio–ConstrucaodeCopilotCustomizados.png)**
+**[Imagem Gerada](/inputs/MicrosoftCopilotStudio–ConstrucaodeCopilotCustomizados.png)**
 
 ### Descrição da Imagem
 A imagem é uma representação do espaço de trabalho do Microsoft Copilot Studio em ação, mostrando sua interface intuitiva e recursos de automação de fluxo de trabalho.

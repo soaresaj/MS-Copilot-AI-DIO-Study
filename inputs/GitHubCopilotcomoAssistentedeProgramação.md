@@ -5,7 +5,7 @@ Uma das principais vantagens do GitHub Copilot é sua capacidade de aprender com
 
 Entretanto, é importante usar o Copilot como uma ferramenta auxiliar, revisando sempre o código sugerido para garantir que esteja alinhado aos objetivos do projeto. Assim, o GitHub Copilot se torna uma ferramenta poderosa, aumentando a produtividade sem comprometer a qualidade do código.
 
-**[Imagem Gerada](/outputs/GitHubCopilotcomoAssistentedeProgramacao.png)**
+**[Imagem Gerada](/inputs/GitHubCopilotcomoAssistentedeProgramacao.png)**
 
 ### Descrição da Imagem
 A imagem gerada com base na descrição sobre o GitHub Copilot, mostrando um desenvolvedor usando essa ferramenta de assistente de programação por IA em um editor de código como o Visual Studio Code.

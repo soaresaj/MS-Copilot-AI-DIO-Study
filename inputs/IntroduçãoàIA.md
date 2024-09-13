@@ -5,7 +5,7 @@ A IA está cada vez mais presente em nosso cotidiano, desde assistentes virtuais
 
 A introdução à IA é fundamental para entender o impacto desta tecnologia na sociedade e as oportunidades que ela oferece para o futuro.
 
-**[Imagem Gerada](/outputs/IntroducaoaIA.png)**
+**[Imagem Gerada](/inputs/IntroducaoaIA.png)**
 
 ### Descrição da Imagem
 Imagem realista que representa a presença da IA em nosso cotidiano, incluindo assistentes virtuais, carros autônomos e sistemas de recomendação em plataformas de streaming.

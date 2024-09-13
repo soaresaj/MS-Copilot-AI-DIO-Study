@@ -7,7 +7,7 @@ Um dos avanços mais significativos no campo do PLN é o desenvolvimento de mode
 
 O PLN também enfrenta desafios, como a ambiguidade da linguagem, a necessidade de compreensão de contexto e a dificuldade em lidar com variações linguísticas. No entanto, à medida que a tecnologia avança, o PLN continua a melhorar, trazendo inovações que facilitam a comunicação entre humanos e máquinas.
 
-**[Imagem Gerada](/outputs/ProcessamentodeLinguagemNatural.png)**
+**[Imagem Gerada](/inputs/ProcessamentodeLinguagemNatural.png)**
 
 ### Descrição da Imagem
 A imagem representa o Processamento de Linguagem Natural (PLN) na inteligência artificial. Ela captura um ambiente de alta tecnologia onde engenheiros e cientistas de dados trabalham juntos com algoritmos de PLN e modelos de linguagem.
