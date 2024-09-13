@@ -5,5 +5,7 @@ Usar Git e GitHub juntos permite que equipes de desenvolvimento gerenciem difere
 
 Dominar o versionamento de código com Git e GitHub é essencial para qualquer desenvolvedor, garantindo organização, eficiência e colaboração eficaz em projetos de software.
 
+**[Imagem Gerada](/outputs/VersionamentodeCodigocomGiteGitHub.png)**
+
 ### Descrição da Imagem
 A imagem gerada com base na sua descrição sobre versionamento de código com Git e GitHub, mostrando uma colaboração de desenvolvedores em um ambiente de trabalho moderno.
