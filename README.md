@@ -1,6 +1,8 @@
 # MS Copilot AI DIO Study
 **Repositório para armazenar resultados de estudo e insights, obtidos em curso na DIO, sobre o uso do Microsoft Copilot AI.**
 
+![MicrosoftCopilotAI](https://github.com/user-attachments/assets/7ae75672-d0ab-4a02-bc0e-02c8236c5290)
+
 Utilizamos o ChatGPT para gerar as imagens dos tópicos principais do curso:
 
 **1.	Fundamentos de Inteligência Artificial e GitHub Copilot**  
@@ -12,18 +14,21 @@ Utilizamos o ChatGPT para gerar as imagens dos tópicos principais do curso:
     -GitHub Copilot como Assistente de Programação  
     -Criar um Portfólio com Projetos de IA  
     -Como Contribuir em Projetos Open Source no GitHub  
+    
 **2.	Desafios e Aplicações Práticas das IAs Generativas**  
     -Desafios de Responsabilidade Ética e Social com IA Generativa  
     -Aplicações Práticas da IA  
     -Lógica e Pensamento Computacional  
     -Utilização da IA Generativa como Assistente de Programação  
     -Natural ou Fake Natty – Como Resolver utilizando IAs Generativas  
+    
 **3.	Pilares Teóricos que Sustentam as IAs Generativas**  
     -Fundamentos da IA Generativa  
     -Algoritmos e Aprendizado de Máquina  
     -Processamento de Linguagem Natural  
     -Visão Computacional  
     -O que são IAs Generativas  
+    
 **4.	Aumentar Produtividade com IA e MS Copilot**  
     -Microsoft Copilot Studio – Construção de Copilot Customizados  
     -Explorar Recursos de IA Generativa utilizando o MS Copilot AI e o Azure OpenAI.  
