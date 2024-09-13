@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Utilização da IA Generativa como Assistente de Programação**
 
-**[Imagem](/outputs/UtilizacaodaIAGenerativacomoAssistentedeProgramacao.png)**
+**[Imagem](/inputs/UtilizacaodaIAGenerativacomoAssistentedeProgramacao.png)**
 
 **[Texto](/inputs/UtilizaçãodaIAGenerativacomoAssistentedeProgramação.md)**
 

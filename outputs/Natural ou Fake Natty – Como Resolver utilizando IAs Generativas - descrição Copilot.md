@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Natural ou Fake Natty – Como Resolver Utilizando IAs Generativas**
 
-**[Imagem](/outputs/NaturalouFakeNatty–ComoResolverUtilizandoIAsGenerativas.png)**
+**[Imagem](/inputs/NaturalouFakeNatty–ComoResolverUtilizandoIAsGenerativas.png)**
 
 **[Texto](/inputs/NaturalouFakeNatty–ComoResolverUtilizandoIAsGenerativas.md)**
 

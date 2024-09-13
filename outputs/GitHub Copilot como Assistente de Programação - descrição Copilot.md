@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **GitHub Copilot como Assistente de Programação**
 
-**[Imagem](/outputs/GitHubCopilotcomoAssistentedeProgramacao.png)**
+**[Imagem](/inputs/GitHubCopilotcomoAssistentedeProgramacao.png)**
 
 **[Texto](/inputs/GitHubCopilotcomoAssistentedeProgramação.md)**
 

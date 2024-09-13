@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Versionamento de Código com Git e GitHub**
 
-**[Imagem](/outputs/VersionamentodeCodigocomGiteGitHub.png)**
+**[Imagem](/inputs/VersionamentodeCodigocomGiteGitHub.png)**
 
 **[Texto](/inputs/VersionamentodeCódigocomGiteGitHub.md)**
 

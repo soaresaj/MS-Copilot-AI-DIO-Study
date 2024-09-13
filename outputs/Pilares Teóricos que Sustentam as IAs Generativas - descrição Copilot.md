@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Pilares Teóricos que Sustentam as IAs Generativas**
 
-**[Imagem](/outputs/PilaresTeoricosqueSustentamasIAsGenerativas.png)**
+**[Imagem](/inputs/PilaresTeoricosqueSustentamasIAsGenerativas.png)**
 
 **[Texto](/inputs/PilaresTeóricosqueSustentamasIAsGenerativas.md)**
 

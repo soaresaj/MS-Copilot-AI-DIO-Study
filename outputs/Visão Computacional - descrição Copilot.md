@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Visão Computacional**
 
-**[Imagem](/outputs/VisaoComputacional.png)**
+**[Imagem](/inputs/VisaoComputacional.png)**
 
 **[Texto](/inputs/VisãoComputacional.md)**
 

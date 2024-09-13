@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Microsoft Copilot Studio – Construção de Copilot Customizados**
 
-**[Imagem](/outputs/MicrosoftCopilotStudio–ConstrucaodeCopilotCustomizados.png)**
+**[Imagem](/inputs/MicrosoftCopilotStudio–ConstrucaodeCopilotCustomizados.png)**
 
 **[Texto](/inputs/MicrosoftCopilotStudio–ConstruçãodeCopilotCustomizados.md)**
 

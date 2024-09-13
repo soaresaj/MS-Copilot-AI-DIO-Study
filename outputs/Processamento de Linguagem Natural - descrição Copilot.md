@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Processamento de Linguagem Natural**
 
-**[Imagem](/outputs/ProcessamentodeLinguagemNatural.png)**
+**[Imagem](/inputs/ProcessamentodeLinguagemNatural.png)**
 
 **[Texto](/inputs/ProcessamentodeLinguagemNatural.md)**
 

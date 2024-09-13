@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Lógica e Pensamento Computacional**
 
-**[Imagem](/outputs/LogicaePensamentoComputacional.png)**
+**[Imagem](/inputs/LogicaePensamentoComputacional.png)**
 
 **[Texto](/inputs/LógicaePensamentoComputacional.md)**
 

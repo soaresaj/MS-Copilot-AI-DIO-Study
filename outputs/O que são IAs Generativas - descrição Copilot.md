@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **O que são IAs Generativas**
 
-**[Imagem](/outputs/OquesaoIAsGenerativas.png)**
+**[Imagem](/inputs/OquesaoIAsGenerativas.png)**
 
 **[Texto](/inputs/OquesãoIAsGenerativas.md)**
 
