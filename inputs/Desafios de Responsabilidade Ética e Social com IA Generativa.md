@@ -5,5 +5,7 @@ Um dos maiores desafios é garantir que as IAs generativas sejam utilizadas de m
 
 A responsabilidade ética na utilização de IA generativa também envolve a transparência com o público sobre quando e como essas tecnologias estão sendo usadas, garantindo que os usuários possam confiar nos sistemas com os quais interagem.
 
+**[Imagem Gerada](/outputs/DesafiosdeResponsabilidadeEticaeSocialcomIAGenerativa.png)**
+
 ### Descrição da Imagem
 Imagem gerada com base no texto sobre os desafios de responsabilidade ética e social relacionados ao uso de IA generativa. A imagem reflete as preocupações com desinformação, deepfakes e vieses, destacando também a importância da transparência e de salvaguardas éticas.
