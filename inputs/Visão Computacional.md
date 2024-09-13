@@ -7,5 +7,7 @@ Os algoritmos de visão computacional utilizam técnicas como detecção de bord
 
 A visão computacional continua a evoluir, abrindo novas possibilidades para a automação e inovação em múltiplos setores.
 
+**[Imagem Gerada](/outputs/VisaoComputacional.png)**
+
 ### Descrição da Imagem
 A imagem representa a Visão Computacional na inteligência artificial, mostrando um laboratório moderno com engenheiros e pesquisadores trabalhando em sistemas avançados de análise visual e inovação tecnológica.
