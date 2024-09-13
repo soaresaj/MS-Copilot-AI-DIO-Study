@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Introdução à IA**
 
-**[Imagem](/outputs/IntroduçãoaIA.png)**
+**[Imagem](/outputs/IntroducaoaIA.png)**
 
 **[Texto](/inputs/IntroduçãoàIA.md)**
 
