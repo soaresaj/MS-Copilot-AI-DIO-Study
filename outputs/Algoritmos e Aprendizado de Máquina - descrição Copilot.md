@@ -1,7 +1,9 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Algoritmos e Aprendizado de Máquina**
+
 **[Imagem](/outputs/AlgoritmoseAprendizadodeMaquina.png)**
-**[Texto](/inputs/Algoritmos e Aprendizado de Máquina.md)**
+
+**[Texto](/inputs/AlgoritmoseAprendizadodeMáquina.md)**
 
 A imagem é uma obra de arte digital que representa vários conceitos relacionados à ciência de dados e aprendizado de máquina.
 
