@@ -5,5 +5,7 @@ O principal objetivo do MS Copilot AI é aumentar a produtividade dos usuários,
 
 A introdução ao MS Copilot AI é essencial para entender como essa ferramenta pode transformar a maneira como trabalhamos, proporcionando um novo nível de automação e inteligência nas atividades diárias.
 
+**[Imagem Gerada](/outputs/IntroducaoaoMSCopilotAI.png)**
+
 ## Descrição da Imagem
 A imagem foi gerada com base no texto fornecido e representa o uso do MS Copilot AI integrado ao Microsoft 365, mostrando como ele auxilia na criação de documentos, e-mails, planilhas e apresentações de forma eficiente em um ambiente de escritório moderno.
