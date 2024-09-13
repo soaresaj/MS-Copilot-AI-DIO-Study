@@ -60,37 +60,60 @@ A imagem representa a Visão Computacional na inteligência artificial, mostrand
 **Análise da Imagem pelo MS Copilot:**  
 A imagem mostra um ambiente de escritório moderno e de alta tecnologia, cheio de pessoas trabalhando em suas mesas com computadores. A sala é espaçosa, com grandes janelas e um teto alto.
 
-O que torna esta imagem interessante é a sobreposição de vários displays holográficos futuristas mostrando diferentes aspectos de inteligência artificial e tecnologia de processamento de linguagem natural. Estes incluem palavras e diagramas relacionados a “GPT,” “NLP,” “Natural Language Understanding,” “Sentiment Analysis,” e outras terminologias relacionadas à IA.
+O que torna esta imagem interessante é a sobreposição de vários displays holográficos futuristas mostrando diferentes aspectos de inteligência artificial e tecnologia de processamento de linguagem natural. Estes incluem palavras e diagramas relacionados a “GPT”, “NLP”, “Natural Language Understanding”, “Sentiment Analysis”, e outras terminologias relacionadas à IA.
 
 Também há representações visuais de redes neurais e ícones de computação em nuvem.
 
-Observação: Na análise das imagens realizadas pelo MS Copilot AI, não foi fornecido qualquer contexto, as observações foram apenas considerando os itens nas imagens apresentadas.
+**Observação:** Na análise das imagens realizadas pelo MS Copilot AI, não foi fornecido qualquer contexto, as observações foram apenas considerando os itens nas imagens apresentadas.
 
 Finalizando foi pedido ao MS Copilot AI verificar se as análises das imagens realizadas estavam aderentes aos tópicos do curso para os quais foram geradas, sendo apresentada a seguinte análise:
 
-**1.	Fundamentos de Inteligência Artificial e GitHub Copilot:** A imagem descreve um ambiente de escritório moderno com pessoas trabalhando em programação, o que é adequado para o tópico;  
+**1.	Fundamentos de Inteligência Artificial e GitHub Copilot:** A imagem descreve um ambiente de escritório moderno com pessoas trabalhando em programação, o que é adequado para o tópico; 
+
 **2.	Introdução à IA:** A imagem mostra uma pessoa programando com elementos de IA, o que é relevante para uma introdução à IA;  
+
 **3.	Introdução ao MS Copilot AI:** A imagem descreve um ambiente de trabalho com referências ao GitHub Copilot, o que é apropriado para o tópico;  
+
 **4.	Aplicações e Impacto da IA no mundo atual:** A imagem mostra um ambiente de trabalho moderno com elementos de IA, o que reflete bem o impacto da IA no mundo atual;  
+
 **5.	Engenharia de Prompt – Potencializado o uso de IA Generativa na prática:** A imagem descreve um ambiente de trabalho com elementos de IA generativa, o que é relevante para o tópico;  
+
 **6.	Versionamento de Código com Git e GitHub:** A imagem mostra um ambiente de trabalho com referências ao GitHub, o que é adequado para o tópico;  
+
 **7.	GitHub Copilot como Assistente de Programação:** A imagem descreve um ambiente de trabalho com o GitHub Copilot, o que é apropriado para o tópico;  
+
 **8.	Criar um Portfólio com Projetos de IA:** A imagem mostra uma pessoa trabalhando em projetos de IA, o que é relevante para o tópico;  
+
 **9.	Como Contribuir em Projetos Open Source no GitHub:** A imagem descreve um ambiente de trabalho com referências ao GitHub, o que é adequado para o tópico;  
+
 **10.	Desafios e Aplicações Práticas das IAs Generativas:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é relevante para o tópico;  
+
 **11.	Desafios de Responsabilidade Ética e Social com IA Generativa:** A imagem descreve um ambiente de trabalho com elementos de IA, o que é apropriado para discutir responsabilidade ética e social;  
+
 **12.	Aplicações Práticas da IA:** A imagem mostra um ambiente de trabalho com elementos de IA, o que é relevante para o tópico;  
+
 **13.	Lógica e Pensamento Computacional:** A imagem descreve um ambiente de trabalho com elementos de lógica e pensamento computacional, o que é adequado para o tópico;  
+
 **14.	Utilização da IA Generativa como Assistente de Programação:** A imagem mostra um ambiente de trabalho com o GitHub Copilot, o que é apropriado para o tópico;  
+
 **15.	Natural ou Fake Natty – Como Resolver utilizando IAs Generativas:** A imagem descreve um ambiente de trabalho com elementos de IA generativa, o que é relevante para o tópico;  
+
 **16.	Pilares Teóricos que Sustentam as IAs Generativas:** A imagem representa artisticamente os fundamentos teóricos da IA generativa como pilares em uma composição visualmente marcante que une arquitetura clássica com conceitos tecnológicos avançados, o que é relevante para o tópico;  
+
 **17.	Fundamentos da IA Generativa:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é adequado para o tópico;  
+
 **18.	Algoritmos e Aprendizado de Máquina:** A imagem descreve um ambiente de trabalho com elementos de aprendizado de máquina, o que é apropriado para o tópico;  
+
 **19.	Processamento de Linguagem Natural:** A imagem mostra um ambiente de trabalho com elementos de processamento de linguagem natural, o que é relevante para o tópico;  
+
 **20.	Visão Computacional:** A imagem descreve um ambiente de trabalho com elementos de visão computacional, o que é adequado para o tópico;  
+
 **21.	O que são IAs Generativas:** A imagem mostra um ambiente de trabalho com elementos de IA generativa, o que é apropriado para o tópico;  
+
 **22.	Aumentar Produtividade com IA e MS Copilot:** A imagem descreve um ambiente de trabalho com o GitHub Copilot, o que é relevante para o tópico;  
+
 **23.	Microsoft Copilot Studio – Construção de Copilot Customizados:** A imagem mostra um ambiente de trabalho com referências ao GitHub Copilot, o que é adequado para o tópico;  
+
 **24.	Explorar Recursos de IA Generativa utilizando o MS Copilot AI e o Azure OpenAI:** A imagem descreve um ambiente de trabalho com elementos de IA generativa e referências ao GitHub Copilot, o que é apropriado para o tópico.
 
-De maneira geral, as descrições fornecidas correspondem bem aos tópicos do curso sobre Microsoft Copilot IA. Cada imagem parece capturar os elementos principais dos tópicos, refletindo adequadamente o conteúdo do curso. Se precisar de mais alguma análise ou ajuste, estou à disposição!
+**De maneira geral, as descrições fornecidas correspondem bem aos tópicos do curso sobre Microsoft Copilot IA. Cada imagem parece capturar os elementos principais dos tópicos, refletindo adequadamente o conteúdo do curso.**
