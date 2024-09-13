@@ -5,5 +5,7 @@ Com o MS Copilot, os usuários podem economizar tempo ao deixar que a IA cuide d
 
 Além disso, o MS Copilot é capaz de aprender com o uso contínuo, tornando-se mais eficiente ao prever as necessidades do usuário e sugerir as melhores soluções. Ao integrar IA no fluxo de trabalho diário, as empresas podem melhorar significativamente a eficiência operacional e a qualidade das entregas.
 
+**[Imagem Gerada](/outputs/AumentarProdutividadecomIAeMSCopilot.png)**
+
 ### Descrição da Imagem
 A imagem representao uso de IA e do Microsoft Copilot em um ambiente corporativo, com profissionais focados em tarefas estratégicas enquanto o Copilot automatiza tarefas repetitivas e oferece sugestões inteligentes em tempo real.
