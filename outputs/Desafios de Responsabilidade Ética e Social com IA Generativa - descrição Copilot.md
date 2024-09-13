@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Desafios de Responsabilidade Ética e Social com IA Generativa**
 
-**[Imagem](/outputs/DesafiosdeResponsabilidadeEticaeSocialcomIAGenerativa.png)**
+**[Imagem](/inputs/DesafiosdeResponsabilidadeEticaeSocialcomIAGenerativa.png)**
 
 **[Texto](/inputs/DesafiosdeResponsabilidadeÉticaeSocialcomIAGenerativa.md)**
 

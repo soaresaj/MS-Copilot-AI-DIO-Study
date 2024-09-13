@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Fundamentos de Inteligência Artificial e GitHub Copilot**
 
-**[Imagem](/outputs/FundamentosdeInteligenciaArtificialeGitHubCopilot.png)**
+**[Imagem](/inputs/FundamentosdeInteligenciaArtificialeGitHubCopilot.png)**
 
 **[Texto](/inputs/FundamentosdeInteligênciaArtificialeGitHubCopilot.md)**
 

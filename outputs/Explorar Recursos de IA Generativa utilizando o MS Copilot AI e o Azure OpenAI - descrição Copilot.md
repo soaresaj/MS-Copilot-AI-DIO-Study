@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Explorar Recursos de IA Generativa utilizando o MS Copilot AI e o Azure OpenAI**
 
-**[Imagem](/outputs/ExplorarRecursosdeIAGenerativautilizandooMSCopilotAIeoAzureOpenAI.png)**
+**[Imagem](/inputs/ExplorarRecursosdeIAGenerativautilizandooMSCopilotAIeoAzureOpenAI.png)**
 
 **[Texto](/inputs/ExplorarRecursosdeIAGenerativautilizandooMSCopilotAIeoAzureOpenAI.md)**
 

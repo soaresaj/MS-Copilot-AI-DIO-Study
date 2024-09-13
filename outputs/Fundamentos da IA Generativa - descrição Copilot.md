@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Fundamentos da IA Generativa**
 
-**[Imagem](/outputs/FundamentosdaIAGenerativa.png)**
+**[Imagem](/inputs/FundamentosdaIAGenerativa.png)**
 
 **[Texto](/inputs/FundamentosdaIAGenerativa.md)**
 

@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Como Contribuir em Projetos Open Source no GitHub**
 
-**[Imagem](/outputs/ComoContribuiremProjetosOpenSourcenoGitHub.png)**
+**[Imagem](/inputs/ComoContribuiremProjetosOpenSourcenoGitHub.png)**
 
 **[Texto](/inputs/ComoContribuiremProjetosOpenSourcenoGitHub.md)**
 

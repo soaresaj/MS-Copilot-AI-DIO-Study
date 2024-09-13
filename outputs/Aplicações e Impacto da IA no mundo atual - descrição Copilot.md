@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Aplicações e Impacto da IA no Mundo Atual**
 
-**[Imagem](/outputs/AplicacoeseImpactodaIAnoMundoAtual.png)**
+**[Imagem](/inputs/AplicacoeseImpactodaIAnoMundoAtual.png)**
 
 **[Texto](/inputs/AplicaçõeseImpactodaIAnoMundoAtual.md)**
 

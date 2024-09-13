@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Criar um Portfólio com Projetos de IA**
 
-**[Imagem](/outputs/CriarumPortfoliocomProjetosdeIA.png)**
+**[Imagem](/inputs/CriarumPortfoliocomProjetosdeIA.png)**
 
 **[Texto](/inputs/CriarumPortfóliocomProjetosdeIA.md)**
 

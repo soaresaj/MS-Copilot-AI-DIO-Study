@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Algoritmos e Aprendizado de Máquina**
 
-**[Imagem](/outputs/AlgoritmoseAprendizadodeMaquina.png)**
+**[Imagem](/inputs/AlgoritmoseAprendizadodeMaquina.png)**
 
 **[Texto](/inputs/AlgoritmoseAprendizadodeMáquina.md)**
 

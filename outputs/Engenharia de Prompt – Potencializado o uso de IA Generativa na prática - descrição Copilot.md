@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Engenharia de Prompt – Potencializando o Uso de IA Generativa na Prática**
 
-**[Imagem](/outputs/EngenhariadePrompt–PotencializandooUsodeIAGenerativanaPratica.png)**
+**[Imagem](/inputs/EngenhariadePrompt–PotencializandooUsodeIAGenerativanaPratica.png)**
 
 **[Texto](/inputs/EngenhariadePrompt–PotencializandooUsodeIAGenerativanaPrática.md)**
 

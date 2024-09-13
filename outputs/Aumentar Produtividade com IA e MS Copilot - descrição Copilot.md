@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Aumentar Produtividade com IA e MS Copilot**
 
-**[Imagem](/outputs/AumentarProdutividadecomIAeMSCopilot.png)**
+**[Imagem](/inputs/AumentarProdutividadecomIAeMSCopilot.png)**
 
 **[Texto](/inputs/AumentarProdutividadecomIAeMSCopilot.md)**
 

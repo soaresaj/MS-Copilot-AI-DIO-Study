@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Aplicações Práticas da IA**
 
-**[Imagem](/outputs/AplicacoesPraticasdaIA.png)**
+**[Imagem](/inputs/AplicacoesPraticasdaIA.png)**
 
 **[Texto](/inputs/AplicaçõesPráticasdaIA.md)**
 

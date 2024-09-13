@@ -1,7 +1,7 @@
 ## Descrição da Imagem Realizada pelo Copilot
 **Desafios e Aplicações Práticas das IAs Generativas**
 
-**[Imagem](/outputs/DesafioseAplicacoesPraticasdasIAsGenerativas.png)**
+**[Imagem](/inputs/DesafioseAplicacoesPraticasdasIAsGenerativas.png)**
 
 **[Texto](/inputs/DesafioseAplicaçõesPráticasdasIAsGenerativas.md)**
 
