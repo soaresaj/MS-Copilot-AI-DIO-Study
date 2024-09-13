@@ -5,7 +5,7 @@ As aplicações práticas das IAs generativas são vastas e incluem a criação 
 
 É essencial desenvolver frameworks e diretrizes para garantir que o uso de IAs generativas seja ético e alinhado com os valores sociais, minimizando os riscos associados ao seu poder de criação.
 
-**[Imagem Gerada](/outputs/DesafioseAplicacoesPraticasdasIAsGenerativas.png)**
+**[Imagem Gerada](/inputs/DesafioseAplicacoesPraticasdasIAsGenerativas.png)**
 
 ### Descrição da Imagem
 A imagem gerada com base no seu texto sobre as IAs generativas como GPT, ilustra as várias áreas em que essas tecnologias estão revolucionando, bem como os desafios éticos e sociais associados ao seu uso.

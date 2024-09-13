@@ -7,7 +7,7 @@ O impacto da IA também é sentido na automação de tarefas repetitivas, libera
 
 O estudo das aplicações e impactos da IA é crucial para entender como esta tecnologia molda o presente e o futuro.
 
-**[Imagem Gerada](/outputs/AplicacoeseImpactodaIAnoMundoAtual.png)**
+**[Imagem Gerada](/inputs/AplicacoeseImpactodaIAnoMundoAtual.png)**
 
 ### Descrição da Imagem
 A imagem que representa o impacto da Inteligência Artificial em diversos setores. Ela inclui cenas de assistência médica, finanças, e-commerce, veículos autônomos e automação de tarefas no ambiente de trabalho, refletindo o impacto e os desafios éticos da IA no mundo moderno.

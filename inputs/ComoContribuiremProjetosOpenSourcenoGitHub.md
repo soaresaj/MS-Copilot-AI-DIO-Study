@@ -5,7 +5,7 @@ Depois de escolher um projeto, é importante ler a documentação do repositóri
 
 Ao contribuir, faça um fork do repositório, crie uma nova branch para suas alterações, e quando estiver satisfeito com o trabalho, faça um pull request. Lembre-se de seguir as orientações de codificação do projeto e de documentar suas mudanças claramente para facilitar a revisão pela equipe do projeto.
 
-**[Imagem Gerada](/outputs/ComoContribuiremProjetosOpenSourcenoGitHub.png)**
+**[Imagem Gerada](/inputs/ComoContribuiremProjetosOpenSourcenoGitHub.png)**
 
 ### Descrição da Imagem
 A imagem gerada com base no texto sobre contribuição em projetos open source no GitHub. A cena retrata bem o processo de navegação por um repositório, leitura de documentação e preparação de um pull request, em um ambiente de trabalho focado e colaborativo.

@@ -7,7 +7,7 @@ Um dos aspectos mais impressionantes da IA generativa é sua capacidade de criar
 
 Esses avanços têm vastas aplicações, desde a automação de tarefas criativas até a geração de protótipos e simulações, tornando a IA generativa uma das áreas mais promissoras da inteligência artificial.
 
-**[Imagem Gerada](/outputs/FundamentosdaIAGenerativa.png)**
+**[Imagem Gerada](/inputs/FundamentosdaIAGenerativa.png)**
 
 ### Descrição da Imagem
 Imagem gerada com base na descrição da IA generativa, ilustrando redes neurais profundas criando diversos tipos de conteúdo, como textos, imagens, música e códigos, em um ambiente digital moderno e tecnológico.

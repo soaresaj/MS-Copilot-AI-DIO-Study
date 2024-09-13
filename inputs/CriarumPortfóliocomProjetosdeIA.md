@@ -5,7 +5,7 @@ Para começar, escolha projetos que tenham relevância para o mercado ou que dem
 
 Além de mostrar suas habilidades técnicas, um portfólio de IA deve refletir sua capacidade de resolver problemas complexos e inovar. Portanto, incluir insights e aprendizados obtidos durante os projetos pode enriquecer ainda mais seu portfólio.
 
-**[Imagem Gerada](/outputs/CriarumPortfoliocomProjetosdeIA.png)**
+**[Imagem Gerada](/inputs/CriarumPortfoliocomProjetosdeIA.png)**
 
 ### Descrição da Imagem
 A imagem gerada com base no texto sobre portfólio de projetos de IA, mostrando um ambiente de trabalho digital e organizado. Ela representa bem a ideia de um portfólio focado em inteligência artificial, com projetos de aprendizado de máquina, visão computacional, processamento de linguagem natural e IA generativa.

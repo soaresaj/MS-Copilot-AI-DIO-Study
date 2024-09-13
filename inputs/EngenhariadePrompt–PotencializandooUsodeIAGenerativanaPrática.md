@@ -5,7 +5,7 @@ Na prática, a engenharia de prompt exige uma compreensão profunda da linguagem
 
 A aplicação eficiente da engenharia de prompt é crucial para maximizar o valor das IAs generativas em diversas áreas, desde a automação de tarefas até a criação de conteúdo, melhorando a interação entre humanos e máquinas e permitindo que as IAs ofereçam soluções mais precisas e contextualizadas.
 
-**[Imagem Gerada](/outputs/EngenhariadePrompt–PotencializandooUsodeIAGenerativanaPratica.png)**
+**[Imagem Gerada](/intputs/EngenhariadePrompt–PotencializandooUsodeIAGenerativanaPratica.png)**
 
 ### Descrição da Imagem
 A imagem representando o conceito de engenharia de prompt em IA generativa. Ela destaca a interação com um modelo de IA, simbolizando o uso de prompts para gerar respostas específicas e relevantes, e a aplicação dessa técnica em diversas áreas.

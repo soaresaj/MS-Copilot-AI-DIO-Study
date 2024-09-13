@@ -5,7 +5,7 @@ O GitHub Copilot é uma aplicação prática de IA no campo da programação. Tr
 
 Enquanto os fundamentos da IA fornecem a base teórica para entender como essas tecnologias funcionam, o GitHub Copilot exemplifica a aplicação prática, destacando como a IA pode transformar a maneira como desenvolvemos software, aumentando a produtividade e minimizando erros humanos.
 
-**[Imagem Gerada](/outputs/FundamentosdeInteligenciaArtificialeGitHubCopilot.png)**
+**[Imagem Gerada](/inputs/FundamentosdeInteligenciaArtificialeGitHubCopilot.png)**
 
 ### Descrição da Imagem
 Imagem ilustrando a aplicação da Inteligência Artificial na ciência da computação e a prática de programação com o GitHub Copilot. Ela mostra um ambiente de trabalho moderno com um programador interagindo com código em uma tela, com sugestões de código geradas por IA em destaque. A imagem também incorpora símbolos de IA, como redes neurais e fluxos de dados, integrados ao ambiente, representando os algoritmos avançados e modelos baseados em dados que impulsionam a IA. A atmosfera é futurista, mas realista, enfatizando a integração da IA no trabalho cotidiano.
