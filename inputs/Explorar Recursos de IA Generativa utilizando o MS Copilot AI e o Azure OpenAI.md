@@ -5,5 +5,7 @@ Com essas ferramentas, é possível implementar soluções inovadoras que vão d
 
 Explorar esses recursos não só aumenta a produtividade, mas também abre novas possibilidades de inovação, permitindo que empresas de todos os tamanhos utilizem IA de ponta para transformar suas operações e melhorar a experiência do cliente.
 
+**[Imagem Gerada](/outputs/ExplorarRecursosdeIAGenerativautilizandooMSCopilotAIeoAzureOpenAI.png)**
+
 ### Descrição da Imagem
 A imagem ilustra o uso da IA generativa através do MS Copilot AI e do Azure OpenAI, mostrando como essas tecnologias podem ser aplicadas para automação de tarefas, criação de conteúdos e integração em aplicações personalizadas.
